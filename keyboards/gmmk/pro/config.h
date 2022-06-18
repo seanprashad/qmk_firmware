@@ -109,8 +109,8 @@
 /* Send up to 4 key press events per scan */
 #define QMK_KEYS_PER_SCAN 4
 
-/* Set debounce time to 32ms */
-#define DEBOUNCE 32
+/* Set debounce time to 64ms */
+#define DEBOUNCE 64
 
 /* Force NKRO on boot up regardless of the setting saved in the EEPROM (uncomment to enable it) */
 // #define FORCE_NKRO
